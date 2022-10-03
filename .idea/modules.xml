@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rorschach.iml" filepath="$PROJECT_DIR$/Rorschach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rorschach-api/Rorschach-api.iml" filepath="$PROJECT_DIR$/Rorschach-api/Rorschach-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rorschach-dao/Rorschach-dao.iml" filepath="$PROJECT_DIR$/Rorschach-dao/Rorschach-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rorschach-infrastructure/Rorschach-infrastructure.iml" filepath="$PROJECT_DIR$/Rorschach-infrastructure/Rorschach-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rorschach-service/Rorschach-service.iml" filepath="$PROJECT_DIR$/Rorschach-service/Rorschach-service.iml" />
+    </modules>
+  </component>
+</project>
